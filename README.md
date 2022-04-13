@@ -5,4 +5,5 @@
 ### chapter [03. 코드 구성하기](https://kimdonghyungsoo.tistory.com/12 "chapter03")
 ### chapter [04. 유스케이스 구현하기](https://kimdonghyungsoo.tistory.com/13 "chapter04")
 ### chapter [05. 웹 어댑터 구현하기](https://kimdonghyungsoo.tistory.com/14 "chapter05")
-### chapter [06. 영속성 어댑터 구현하기](https://kimdonghyungsoo.tistory.com/14 "chapter06")
+### chapter [06. 영속성 어댑터 구현하기](https://kimdonghyungsoo.tistory.com/15 "chapter06")
+### chapter [07. 아키텍처 요소 테스트하기](https://kimdonghyungsoo.tistory.com/16 "chapter07")

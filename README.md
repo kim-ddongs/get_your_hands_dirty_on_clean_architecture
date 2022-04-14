@@ -7,3 +7,4 @@
 ### chapter [05. 웹 어댑터 구현하기](https://kimdonghyungsoo.tistory.com/14 "chapter05")
 ### chapter [06. 영속성 어댑터 구현하기](https://kimdonghyungsoo.tistory.com/15 "chapter06")
 ### chapter [07. 아키텍처 요소 테스트하기](https://kimdonghyungsoo.tistory.com/16 "chapter07")
+### chapter [08. 경계 간 매핑하기](https://kimdonghyungsoo.tistory.com/17 "chapter08")

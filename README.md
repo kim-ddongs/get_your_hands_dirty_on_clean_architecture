@@ -9,3 +9,6 @@
 ### chapter [07. 아키텍처 요소 테스트하기](https://kimdonghyungsoo.tistory.com/16 "chapter07")
 ### chapter [08. 경계 간 매핑하기](https://kimdonghyungsoo.tistory.com/17 "chapter08")
 ### chapter [09. 애플리케이션 조립하기](https://kimdonghyungsoo.tistory.com/18 "chapter09")
+### chapter [10. 아키텍처 경계 강제하기](https://kimdonghyungsoo.tistory.com/19 "chapter10")
+### chapter [11. 의식적으로 지름길 사용하기](https://kimdonghyungsoo.tistory.com/20 "chapter11")
+### chapter [12. 아키텍처 스타일 결정하기](https://kimdonghyungsoo.tistory.com/21 "chapter12")
